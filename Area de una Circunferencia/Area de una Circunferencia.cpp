@@ -12,17 +12,17 @@ void validar() {
 	}
 	else {
 		float resultado = pow(radio, 2) * M_PI;
-		printf("%f", resultado);
+		cout << endl;
+		printf("El area de la Circunferencia es: " "%f", resultado);
 		return;
 	}
 }
 
 int main() {
-	float radio;
-
 	cout << "Area de una Circunferencia" << endl << endl;
 	cout << endl;
 	cout << "Ingresa el Radio:" << endl;
+	cout << endl;
     validar();
 	cout << endl;
 
