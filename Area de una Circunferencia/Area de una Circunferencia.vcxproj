@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="Area de una Circunferencia.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Area de una Circunferencia.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
